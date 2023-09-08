@@ -1,0 +1,23 @@
+<div id="content1" class="box">
+<p class="green-text">
+   
+
+   
+
+
+
+
+  </p>
+
+  <p class="history-text"> 
+  Contents: </p>
+
+      {% for data in tweetlist %}
+        <p>{{ data }}</p>
+        <hr width="30%">
+      {% endfor %}
+      
+  <div>
+      <button class='cool-button2' onclick="loadtexts()">Reload</button>
+  </div>
+ </div>

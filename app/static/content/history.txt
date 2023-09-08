@@ -1,0 +1,2828 @@
+1
+1::-----------------------
+---Eng Text----
+''My Last Words''
+"My Life"
+"My Love"
+"My Old Ways"
+''My Own Grave''
+
+---Nep Text----
+''मेरा अन्तिम शब्दहरू''
+"मेरो जिन्दगी"
+"मेरो प्यार"
+"मेरो पुरानो बाटो"
+''मेरो आफ्नै चिहान''
+
+---------------------
+
+2::-----------------------
+---Eng Text----
+She's like "Oh, my god!" but I'm just gonna shake.
+And to the fella over there with the hella good hair
+Won't you come on over, baby? We can shake, shake, shake
+
+Yeah ohhh
+
+---Nep Text----
+उनी जस्तै "हे भगवान!" तर म हल्लाउने छु।
+अनि त्यहा त्यहा हेला राम्रो कपाल भएको साथीलाई
+तिमी आउँदैनौ, बच्चा? हामी हल्लाउन सक्छौं, हल्लाउन सक्छौं
+हो ओह
+
+---------------------
+
+2::-----------------------
+---Eng Text----
+
+You are the creation of something so obscene
+It makes me sick to see your lungs still fill with air
+And never die
+Why do they never die?
+
+---Nep Text----
+तिमी यति अश्लील चीजको सिर्जना हौ
+तपाईंको फोक्सो अझै हावाले भरिएको देखेर मलाई बिरामी बनाउँछ
+र कहिल्यै मर्दैन
+तिनीहरू किन कहिल्यै मर्दैनन्?
+
+2::-----------------------
+---Eng Text----
+What's wrong with me is wrong with you
+
+Love me to death
+Love me to death
+Love me to death
+
+---Nep Text----
+म संग के गलत छ तपाईं संग गलत छ
+मलाई मृत्यु सम्म माया गर्नुहोस्
+मलाई मृत्यु सम्म माया गर्नुहोस्
+मलाई मृत्यु सम्म माया गर्नुहोस्
+
+lovemetodeath.txt
+Suicide Silence
+2::------------------------
+------------------------
+---Eng Text----
+Somehow it's so safe to fail
+
+You must really love to hope this face will fail
+I don't want to watch you doubt this place to death
+
+
+---Nep Text----
+कुनै न कुनै रूपमा यो असफल हुन धेरै सुरक्षित छ
+तपाईंले यो अनुहार असफल हुने आशा गर्न साँच्चै माया गर्नुपर्छ
+म तिमीलाई यो ठाउँमा शङ्का गरेको हेर्न चाहन्न
+
+dontbecarefulyoumighthurtyourself.txt
+Suicide Silence
+6::------------------------
+------------------------
+---Eng Text----
+Firmhand - the final solution, eugenocide,
+
+Hate is the law, love under will,
+Hate is their law, love under will,
+
+
+---Nep Text----
+फर्मह्यान्ड - अन्तिम समाधान, युजेनोसाइड,
+घृणा कानून हो, इच्छा अनुसार प्रेम,
+घृणा तिनीहरूको नियम हो, इच्छामा प्रेम,
+
+firmhand.txt
+carcass
+7::------------------------
+------------------------
+---Eng Text----
+And I cut off
+My nose just to spite my face
+Then I hate my reflection
+For years and years
+
+
+---Nep Text----
+अनि काटिदिए
+मेरो नाक मात्र मेरो अनुहार को लागी
+त्यसपछि म मेरो प्रतिबिम्बलाई घृणा गर्छु
+वर्षौं र वर्षसम्म
+
+thearcher.txt
+Taylorswift
+8::------------------------
+------------------------
+---Eng Text----
+
+Your life amounts to nothing.
+Lifeless slut, in love with God.
+Do you believe there's a god in this lifetime?
+Do you believe in God?
+
+---Nep Text----
+तिम्रो जीवन केही छैन।
+निर्जीव स्लट, भगवानको प्रेममा।
+के तपाई यस जीवनकालमा भगवान हुनुहुन्छ भन्ने विश्वास गर्नुहुन्छ?
+के तपाई भगवानमा विश्वास गर्नुहुन्छ?
+
+illshowyougod.txt
+Thy Art Is Murder
+9::------------------------
+------------------------
+---Eng Text----
+The dark side of science breeds a weapon of war
+Contagious killing and internal distress
+Homicide or suicide will be the cause of death
+Internal organs altered by the disease
+Your brain disabled by the constant pain
+
+---Nep Text----
+विज्ञानको अँध्यारो पक्षले युद्धको हतियार पैदा गर्छ
+संक्रामक हत्या र आन्तरिक संकट
+हत्या वा आत्महत्या मृत्युको कारण हुनेछ
+भित्री अंगहरु रोग द्वारा परिवर्तन
+लगातार दुखाइले तपाईको दिमाग असक्षम भयो
+
+eviscerationplague.txt
+cannibal corpse
+10::------------------------
+------------------------
+---Eng Text----
+And I bury hatchets, but I keep maps of where I put 'em
+Reputation precedes me, they told you I'm crazy
+I swear I don't love the drama, it loves me
+And I can't let you go, your hand prints on my soul
+It's like your eyes are liquor, it's like your body is gold
+
+---Nep Text----
+र म ह्याचेटहरू गाड्छु, तर मैले तिनीहरूलाई राखेको ठाउँको नक्सा राख्छु
+प्रतिष्ठा मेरो अगाडि छ, तिनीहरूले तपाईंलाई म पागल हुँ भन्नुभयो
+म कसम खान्छु म ड्रामालाई माया गर्दिन, यसले मलाई माया गर्छ
+र म तिमीलाई जान दिन सक्दिन, तिम्रो हात मेरो आत्मामा छापिएको छ
+तिम्रो आँखा रक्सी जस्तै हो, तिम्रो शरीर सुन जस्तै हो
+endgame.txt
+Taylorswift
+
+11::------------------------
+------------------------
+---Eng Text----
+Be you're summer midnight with starry blue eyes
+That only see you and are yours every night
+Ooh, ooh, love's like this
+It's something I missed
+
+makingupforlostlove.txt
+Taylorswift
+
+12::------------------------
+------------------------
+---Eng Text----
+"Murder, murder, murder and kill, kill, kill"22Embed
+Murder Murder Lyrics
+"All I see is murder murder, my mindstate"
+"Makes it too late for cops to try and stop the crime rate"
+
+Murder Murder.txt
+eminem
+
+13::------------------------
+------------------------
+---Eng Text----
+• Mommy (Skit): December 6th, 1997↗
+• No One’s Iller: December 6th, 1997↗
+• Murder, Murder: December 6th, 1997↗
+• If I Had (Radio Edit): December 6th, 1997↗
+
+Fuckin Backstabber.txt
+eminem
+
+14::------------------------
+------------------------
+---Eng Text----
+Homicidal desire
+
+More are marked for murder
+More victims to capture
+
+anexperimentinhomicide.txt
+cannibal corpse
+
+15::------------------------
+------------------------
+---Eng Text----
+The elite body of divinites will decay all of terrestrial beings
+
+Scorch everything until the landscape is all but intact
+The abomination is finally back
+
+geneticinheritance.txt
+rings of saturn
+
+16::------------------------
+------------------------
+---Eng Text----
+day lit sky is now blackened by the infant ashes. As they rise they
+bring us darkness, turning day to night. With the remnants of the
+children burning, we begin the last stage. Surviving females are
+loaded onto transports and then shipped to our parishes where they’re
+
+cuntcrusher.txt
+infant anihiliator
+
+17::------------------------
+------------------------
+---Eng Text----
+
+Gaping and sore
+The rusty razors bore
+Skin hangs and seeps
+
+oxidisedrazormasticator.txt
+carcass
+
+18::------------------------
+------------------------
+---Eng Text----
+
+The rabid beast stalks the land, stole the body from the tomb
+Raped the sin into the lamb, taste the fruit of thy womb
+Now all is forsaken, all is undone
+
+eyeforaneye.txt
+Thy Art Is Murder
+
+19::------------------------
+------------------------
+---Eng Text----
+[Pre-Chorus]
+I you fear, seeing through your lies
+You I fear, raping of innocent minds
+
+
+Children Of A Worthless God.txt
+Exodus
+
+20::------------------------
+------------------------
+---Eng Text----
+And life was ended near.
+Gravnt shee remember what thov'st done,
+And celebrate thy Praise;
+And let her Conversation say,
+
+DaughterPoemsUponMyDaughterHannahWigginHerRecoueryFromADangerousFeaverPoembyAnneBradstreet.txt
+daughter
+
+21::------------------------
+------------------------
+---Eng Text----
+Some saving hand was always there
+to pull me from the Pit.
+A Guardian Angel - how absurd!
+I scoff at Power Divine.
+
+AngelPoemsMyGuardianAngelPoembyRobertWilliamService.txt
+angel
+
+22::------------------------
+------------------------
+---Eng Text----
+So I don't hear
+So I can sleep.
+What I need is someone
+who believes me:
+
+CrazyPoemsWhatMakesMeCrazyLilasStoryPoembyLonnieHicks.txt
+crazy
+
+23::------------------------
+------------------------
+---Eng Text----
+Captured by the gender she loathes
+
+Now she is tied, terrified, set aside
+As I prepare she stares as I tear at the garment she hides behind
+
+nothinglefttomutilate.txt
+cannibal corpse
+
+24::------------------------
+------------------------
+---Eng Text----
+Through me he has the power to instil the re-written doctrine to the
+church. Beware the wolf in sheep skin preying on the weak. I am the
+host of Satan. Parasites thriving in my blood harbour his soul in my
+surrogate subjugation. My fidelity lies with he who now grows inside
+
+whorespawnbloodlinedefiled.txt
+infant anihiliator
+
+25::------------------------
+------------------------
+---Eng Text----
+Pectified sludge - dank, acrid aroma
+
+Clotting uteral mucus, dissipating your foetus
+Melting your uterus and evaporation your cyesis
+
+microwaveduterogestation.txt
+carcass
+
+26::------------------------
+------------------------
+---Eng Text----
+not a curtains drawn by angels borne
+'what a nice way to go' death
+Let me die a youngman's death
+not a clean and inbetween
+
+DeathPoemsLetMeDieAYoungmansDeathPoembyRogerMcGough.txt
+death
+
+27::------------------------
+------------------------
+---Eng Text----
+Your tongue gets sore and it hurts to talk.
+Your brain says, 'Tongue, don't take that walk! '
+but tongues won't listen (or tongues don't care) ,
+and pretty soon it goes back there,
+
+ChildrenPoemsStupidTonguesChildrenPoembyCJHeck.txt
+children
+
+28::------------------------
+------------------------
+---Eng Text----
+Life is not a bed of roses
+Life is a dance for you to dance
+Life is every state of mind
+What is life?
+
+DancePoemsLifeIsADanceForYouToDancePoembyMariaLuisaTaylor.txt
+dance
+
+29::------------------------
+------------------------
+---Eng Text----
+And tender portrait of someone.
+There's someone's glance, sad and fraternal.
+There's tender profile on the wall.
+Rostand and the Reichstadtian martyr
+
+ParisPoemsInParisPoembyMarinaIvanovnaTsvetaeva.txt
+paris
+
+30::------------------------
+------------------------
+---Eng Text----
+Low as you hurt me but that's further debatable, debatable
+And that'll be nothing that's ever new
+No way of making love due so
+Even though it happens as every warning
+
+WarningPoemseveryWarningPoembyRichDownes.txt
+warning
+
+31::------------------------
+------------------------
+---Eng Text----
+All thy beauty I'd repay!
+LOVE for love, and moments sweet,
+Lips returning kiss for kiss,
+Word for word, and eyes that meet;
+
+LovePoemsBookOfSuleikaLoveForLovePoembyJohannWolfgangvonGoethe.txt
+love
+
+32::------------------------
+------------------------
+---Eng Text----
+©   Ernestine Northover
+How clear is the air found at a mountain's top,
+And breathing this freshness, clarifies all things,
+At such high altitude, oxygen can drop,
+
+PeacePoemsASenseOfPeacePoembyErnestineNorthover.txt
+peace
+
+33::------------------------
+------------------------
+---Eng Text----
+I'm here to save you, girl, come be in Shady's world
+I wanna grow together, let's let our love unfurl
+You know you want me, baby, you know I want you too
+They call me Superman, I'm here to rescue you
+
+Superman.txt
+eminem
+
+34::------------------------
+------------------------
+---Eng Text----
+I shall submit your futile species
+through infinite tortures of the deep,
+Abandoning you, emaciated, amongst darkness.
+
+
+empathyforleviathan.txt
+oceano
+
+35::------------------------
+------------------------
+---Eng Text----
+In the pain of this day
+Police lights
+Oil leaks
+I guess its a surprise
+
+CarPoemsCarCrashPoembyAbbyRose.txt
+car
+
+36::------------------------
+------------------------
+---Eng Text----
+And I don't need you (No more)
+Don't wanna see you (No more)
+Ha, bitch, you get no (Love)
+You showed me nothing but hate (Haha!)
+
+No Love.txt
+eminem
+
+37::------------------------
+------------------------
+---Eng Text----
+Metamorphosis for shit
+Brainwashed. Possessed.
+I dont even know who you are anymore.
+Abducted.
+
+bodysnatcher.txt
+cattledecapitation
+
+38::------------------------
+------------------------
+---Eng Text----
+But they go unheard in the House of Mirrors
+
+Mirror Mirror, on the wall (House of Mirrors)
+Who's the wickedest of all? (House of Mirrors)
+
+houseofmirrors.txt
+insaneclownposse
+
+39::------------------------
+------------------------
+---Eng Text----
+I have loved but one man in my life...
+one man that I loved who didn’t love me.
+I tried to get him to open his eyes,
+but his eyes were shut and too blind to see.
+
+DestinyPoemsMySoulmateMyDestinyPoembyShellyPrice.txt
+destiny
+
+40::------------------------
+------------------------
+---Eng Text----
+Economic salvation in sweatshops returned from the east,
+Despair the only quality of strife,
+A reason for existence if you can afford the price,
+If your price is right,
+
+keeponrottinginthefreeworld.txt
+carcass
+
+41::------------------------
+------------------------
+---Eng Text----
+Darkness will soon cover this once righteous life, nothing but an effigy daunting the annihilation.
+What was immaculate, now stained with impurity, watching this torso turn corpse, blood dripping from intestines as they are ripped from inside out, the struggle for exhalation, a need to fulfill my obsession as pale turns blue, the
+desire to penetrate the dead become overwhelming.
+Now, a trophy to remember my first, a sense of completion, the stench of her rotting organs now linger for eternity.
+
+lacerationpenetration.txt
+Thy Art Is Murder
+
+42::------------------------
+------------------------
+---Eng Text----
+
+Return these days to the righteous
+Heal these wounds of time
+I have waited so long
+
+Summoning Redemption.txt
+morbid angel
+
+43::------------------------
+------------------------
+---Eng Text----
+When the clouds of anger
+descend upon our mind
+things are said in haste
+which can hurt deeper
+
+AngerPoemsCloudsOfAngerPoembyDavidHarris.txt
+anger
+
+44::------------------------
+------------------------
+---Eng Text----
+For beauty I am not a star,
+There are others more perfect by far,
+But my face I don't mind it,
+For I am behind it,
+
+StarPoemsForBeautyIAmNotAStarPoembyWoodrowWilson.txt
+star
+
+45::------------------------
+------------------------
+---Eng Text----
+And toss them quickly in the tangled mass
+Of wis-wis twisted round the guinea grass;
+And Cyril coming through the bramble-track
+A prize bunch of bananas on his back;
+
+HomePoemsHomeThoughtsPoembyClaudeMcKay.txt
+home
+
+46::------------------------
+------------------------
+---Eng Text----
+An' you'd best take 'im for your true love.
+"Soldier, soldier come from the wars,
+Why don't you march with my true love?"
+"We're fresh from off the ship an' 'e's maybe give the slip,
+
+SoldierPoemsSoldierSoldierPoembyRudyardKipling.txt
+soldier
+
+47::------------------------
+------------------------
+---Eng Text----
+As our blue Ford Anglia made happiness complete.
+Secretly, I offer a silent prayer
+Those bygone days still live in my heart.
+Just we two, in that little car of blue
+
+CarPoemsLittleBlueCarPoembyJoyceHemsley.txt
+car
+
+48::------------------------
+------------------------
+---Eng Text----
+We learn from our elders on what we should do
+and we should all work together to see all things through
+13 May 2008
+*response to David's poem 'Old and New'
+
+WorkPoemsWorkTogetherPoembyJoJoBean.txt
+work
+
+49::------------------------
+------------------------
+---Eng Text----
+like having a mosquito bite that you can’t quite reach.
+When you find someone to scratch it,
+it just feels good.
+Oops, gotta go.
+
+PoetryPoemsOnWritingPoetryPoembyCJHeck.txt
+poetry
+
+50::------------------------
+------------------------
+---Eng Text----
+Into the open, in the high sea
+Was it just my imagination
+Or was it just your cold?
+You seemed so far away
+
+BabyPoemsq5SongWonTYouBabyPoembyRenuRakhejaakaTranquilOcean.txt
+baby
+
+51::------------------------
+------------------------
+---Eng Text----
+Though love is often straitened for a kiss,
+Nor for the hope of other joys above,
+But only this,
+That she had laid her hand upon my heart
+
+FuneralPoemsAtAFuneralPoembyWilfridScawenBlunt.txt
+funeral
+
+52::------------------------
+------------------------
+---Eng Text----
+Say goodbye to your lifelong fears
+“Because every second you spend angry,
+Or upset is a moment of happiness you can never get back”
+So live with no excuses,
+
+CarpediemPoemsCarpeDiemPoembyKeelieSmith.txt
+carpe diem
+
+53::------------------------
+------------------------
+---Eng Text----
+Both to his starry rise and starry fall.
+Or is it of the Virgin's silver beauty,
+All fish below the thighs?
+She in her left hand bears a leafy quince;
+
+WinterPoemsToJuanAtTheWinterSolsticePoembyRobertGraves.txt
+winter
+
+54::------------------------
+------------------------
+---Eng Text----
+Therein it seems...
+Of memories gone
+Of love and care,
+For years go on
+
+HopePoemsThereWasThisHopePoembyPeterSQuinn.txt
+hope
+
+55::------------------------
+------------------------
+---Eng Text----
+03.07.2006
+I bought an idol made of ivory.
+All said it was good; it got its glory.
+Who must I be grateful to:
+
+LossPoemsGainAndLossPoembyRmShanmugamChettiar.txt
+loss
+
+56::------------------------
+------------------------
+---Eng Text----
+"The nights are unenjoyable for the people, for they are chilled with the huddles of snow, and further chilled by moonbeams of the moon, besides, these nights are ornamented very whitish clusters of cluttered and lacklustre stars...
+"On taking betel leaves and their enclosing material like lime and areca-nut parings, and other fragrant material for chewing, and even handling body creams and tassels of flowers, for it is cool to wear them on, and with their lotus-like faces that are fragranced with delightful recreational drinks, the women are enthusiastically entering their bedchambers, that are desirably fragranced with the fumigation of aloe vera resin...
+"On entering bedchambers seen are the irritant husbands irritating for the arrival of their wives, but once these husbands were at fault and they were daunted repeatedly earlier, hence they are now wavery, for their hearts are ciphered by their hesitation, and on looking at such husbands, who are now longing for lovemaking, the lustful women are overlooking their faults, lest time and opportunity fritters away... thus this season unites couples, though they are at loggerheads...
+"The women that are new to adulthood are relentlessly gratified for a long time in longish nights, by young men who are muchly impassioned and lusting for their women, thus these young women after the end of night are moving about sluggishly in the morning, with their aching busts that are strained during last night's escapade...
+
+WinterPoemsSeasonalCycleChapter05WinterPoembyKalidasa.txt
+winter
+
+57::------------------------
+------------------------
+---Eng Text----
+But Mother Nature is not for the reaper and she will live forever more
+A walk in Nature never boring in Nature great beauty to see
+The wild birds are chirping and singing on fence wire and bush and on tree
+Away from the street and the traffic from human made pollution and noise
+
+NaturePoemsAWalkInNaturePoembyFrancisDuggan.txt
+nature
+
+58::------------------------
+------------------------
+---Eng Text----
+Rather, from dreams of me, that at your side
+So many nights, a lover and a bride,
+But stern in my soul's chastity, have lain,
+To walk the world forever for my sake,
+
+HopePoemsSonnets12CherishYouThenTheHopeIShallForgetPoembyEdnaStVincentMillay.txt
+hope
+
+59::------------------------
+------------------------
+---Eng Text----
+Give to is love's
+For Your's out side of
+World thing's...!
+Body of love given
+
+MotherPoems2ndMotherPoembyOtteriSelvakumar.txt
+mother
+
+60::------------------------
+------------------------
+---Eng Text----
+It wasn't very long ago
+when those things weren't there.
+Wish I could smooth the wrinkles out
+and darken Daddy's hair
+
+HairPoemsWrinklesAndGreyHairChildrenPoembyCJHeck.txt
+hair
+
+61::------------------------
+------------------------
+---Eng Text----
+She’s an animal refugee
+I’m a Mekong crocodile from Vietnam
+When the napalm scorched each tree
+I swam to Laos at dead of night
+
+AnimalPoemsTheAnimalRefugeesPoembySheenaBlackhall.txt
+animal
+
+62::------------------------
+------------------------
+---Eng Text----
+They couldn’t get enough of her
+As in their arms this child they held
+And as she grew and changed
+Her personality was so unique
+
+BabyPoemsBabyMarciaPoembyMarilynLott.txt
+baby
+
+63::------------------------
+------------------------
+---Eng Text----
+Here in the brilliant sun we jostle, waiting
+To tear her secret out . . . We laugh, we hurry,
+We go our way, revolving, sinister, slow.
+She blinks in the sun, and then steps faintly downward.
+
+HousePoemsTheHouseOfDustPart0402DeathAndADerisiveChorusPoembyConradPotterAiken.txt
+house
+
+64::------------------------
+------------------------
+---Eng Text----
+The apprehensive conditions of our nation
+Is now expunged within human nature.
+Surrender severely subliminal,
+Upon the mercy of apparitions
+
+existinconfinements.txt
+oceano
+
+65::------------------------
+------------------------
+---Eng Text----
+gag shoved down her throat. The tension builds as I unveil her uterus.
+Her anesthesia is my cock. Convulsions overwhelm my patience - if
+these persist ill have no choice but to kill her before she gives
+birth. What a fucking shame. Death brings me joy, but I would rather
+
+tornfromthewomb.txt
+infant anihiliator
+
+66::------------------------
+------------------------
+---Eng Text----
+My doom
+
+My Mind's still functions
+But my body's in pieces.
+
+pitofzombies.txt
+cannibal corpse
+
+67::------------------------
+------------------------
+---Eng Text----
+Humans, a fucking wound on the entire stretch of the universe
+Exploring these dimensions beyond their own comprehension
+We cannot allow this to occur this way anymore
+The veins of life shall flourish by the death
+
+harvest.txt
+rings of saturn
+
+68::------------------------
+------------------------
+---Eng Text----
+I just don't have the time for the grieving
+
+[Chorus]
+I'm callous, remorseless
+
+Numb.txt
+Exodus
+
+69::------------------------
+------------------------
+---Eng Text----
+we seemed to be basking in the indescribable privilege
+of his friendship
+and his love;
+which I guess in my case as in his would thus be truly
+
+FuneralPoemsMyWakeMyFuneralMyCelebrationPoembyMichaelShepherd.txt
+funeral
+
+70::------------------------
+------------------------
+---Eng Text----
+This won't be the last of us this, this passion
+
+Squirming away, stop eating nothing
+
+
+swarm.txt
+Suicide Silence
+
+71::------------------------
+------------------------
+---Eng Text----
+Melvin Banggollay
+FREEDOM IS:
+F-ighting for a just and noble cause
+R-especting others rights and dignity
+
+FreedomPoemsFreedomIsFreedomIsNeverPoembyMELVINBANGGOLLAY.txt
+freedom
+
+72::------------------------
+------------------------
+---Eng Text----
+What's your purpose?
+You have no business bearing 666.
+Witness unprivileged mortals
+Incapable of true Evils.
+
+blasphemousmask.txt
+oceano
+
+73::------------------------
+------------------------
+---Eng Text----
+Your hate's manifested in me.
+Plagued with morbid visions of pain to inflict upon you,
+I'm resurrected to hate.
+Holding true to the nature of a killer,
+
+incisions.txt
+oceano
+
+74::------------------------
+------------------------
+---Eng Text----
+It keeps you away
+It doesn’t allow you to be gay
+It keeps you back
+It doesn’t allow any comeback
+
+DepressionPoemsDepressionAMixOfPoemsAndMinePoembywickedwacked.txt
+depression
+
+75::------------------------
+------------------------
+---Eng Text----
+In the Afghanistan
+War
+America won't
+Be the same anymore
+
+AmericaPoemsAmericaWonTPoembyAldoKraas.txt
+america
+
+76::------------------------
+------------------------
+---Eng Text----
+Could Art, or Time, or Nature bribe,
+To make you look like Beauty's Queen,
+And hold for ever at fifteen;
+No bloom of youth can ever blind
+
+BirthPoemsStellasBirthDay171920PoembyJonathanSwift.txt
+birth
+
+77::------------------------
+------------------------
+---Eng Text----
+Through the innocence of our hearts
+we were babes in arms, waltzing to
+the soft music of love, dusted with a
+touch of pasion glazed  with fire that
+
+PassionPoemsInnocentPassionPoembyBonnieCollins.txt
+passion
+
+78::------------------------
+------------------------
+---Eng Text----
+His own sweet songs that time shall not forget.
+Waiting with us the call to come up higher,
+Life is not less, the heavens are only higher!
+
+BirthPoemsOWHolmesOnHisEightiethBirthDayPoembyJohnGreenleafWhittier.txt
+birth
+
+79::------------------------
+------------------------
+---Eng Text----
+
+Embed
+The Death Of Nattefrost (Still Reaching For Hell Pt Ii) Lyrics
+
+The Death Of Nattefrost (Still Reaching For Hell Pt II).txt
+nattefrost
+
+80::------------------------
+------------------------
+---Eng Text----
+To spread its canopy of poisoning airs.
+Not all our children's pleas and women's fears
+Could steer us from this hell.And now God knows
+His whole green sky is dying as it flares.
+
+WarPoemsOnALineFromValÃ©ryTheGulfWarPoembyCarolynKizer.txt
+war
+
+81::------------------------
+------------------------
+---Eng Text----
+The earthling.
+
+You're all ingrates
+Waste of time and space
+
+theearthling.txt
+cattledecapitation
+
+82::------------------------
+------------------------
+---Eng Text----
+Or your God of make believe
+
+You speak to the sky and no one answers back
+And yet you wager the word of God is fact
+
+The Atrocity Exhibition.txt
+Exodus
+
+83::------------------------
+------------------------
+---Eng Text----
+Blood was shed, the red moon arises
+In lust I live, in hate I trust
+Lead the way to the gates of hell
+
+
+Born Innocent.txt
+Blood feast
+
+84::------------------------
+------------------------
+---Eng Text----
+
+TruthPoemsTheTruthPoembyCHERRYSAFFARIE.txt
+truth
+
+85::------------------------
+------------------------
+---Eng Text----
+under prostitution's malady,
+when  children are still under
+abuse and exploitation by many
+and as long as there are disaster
+
+PovertyPoemsPovertyWarOfTodayPoembyMELVINBANGGOLLAY.txt
+poverty
+
+86::------------------------
+------------------------
+---Eng Text----
+A churned up dream with life is life;
+thicker than dream; thinner than life.
+It's life like dream half blur, half clear
+and dreams solid and palpable.
+
+DreamPoemsADreamInDreamPoembySathyaNarayana.txt
+dream
+
+87::------------------------
+------------------------
+---Eng Text----
+dance, my little puppets
+this is the end
+dance, my little puppets
+dance for me
+
+DancePoemsDanceMyLittlePuppetsPoembysandynobody.txt
+dance
+
+88::------------------------
+------------------------
+---Eng Text----
+"Solve"
+"Somebody That I Used To Know"
+"Somebody to Love"
+"Someday"
+
+Warlords.txt
+Exodus
+
+89::------------------------
+------------------------
+---Eng Text----
+It can happen to Shady
+They do the same shit to Brady
+More people hate me than love me
+This game will make you go crazy
+
+---Nep Text----
+छायालाई पनि हुन सक्छ
+तिनीहरूले ब्रैडीलाई पनि त्यस्तै बकवास गर्छन्
+मलाई माया भन्दा धेरै मानिसहरूले मलाई घृणा गर्छन्
+यो खेलले तपाईंलाई पागल बनाउनेछ
+Premonition.txt
+eminem
+
+90::------------------------
+------------------------
+---Eng Text----
+Slip into that red dress you like
+When we arrive, we probably won't leave, ah
+I love the way you move like that
+When you push your body on mine, oh my
+
+---Nep Text----
+तपाईलाई मनपर्ने रातो पोशाकमा चिप्लनुहोस्
+जब हामी आइपुग्छौं, हामी सायद छोड्ने छैनौं, आह
+मलाई तपाईं यसरी हिड्ने तरिका मनपर्छ
+जब तपाईं आफ्नो शरीर मेरो मा धकेल्छ, ओह मेरो
+Those Kinda Nights.txt
+eminem
+
+91::------------------------
+------------------------
+---Eng Text----
+So Bad
+Almost Famous
+Love The Way You Lie
+You're Never Over
+
+---Nep Text----
+कस्तो नराम्रो
+लगभग प्रसिद्ध
+तपाईँको ढाँट्ने तरीका मन पराउँछु
+तपाईं कहिल्यै समाप्त हुनुहुन्न
+8 Mile Freestyle PtII vs Lotto.txt
+eminem
+
+92::------------------------
+------------------------
+---Eng Text----
+Firmhand - the final solution, eugenocide,
+
+Hate is the law, love under will,
+Hate is their law, love under will,
+
+---Nep Text----
+फर्मह्यान्ड - अन्तिम समाधान, युजेनोसाइड,
+घृणा कानून हो, इच्छा अनुसार प्रेम,
+घृणा तिनीहरूको नियम हो, इच्छामा प्रेम,
+firmhand.txt
+carcass
+
+93::------------------------
+------------------------
+---Eng Text----
+Not Afraid
+Seduction
+No Love
+Space Bound
+
+Diamond Style.txt
+eminem
+
+94::------------------------
+------------------------
+---Eng Text----
+The time when love is in the air,
+And roses and chocolates are everywhere,
+The day of love, the day of valentine,
+I remember you in this heart of mine.
+
+RememberPoemsIRememberYouPoembyshreyakoppaka.txt
+remember
+
+95::------------------------
+------------------------
+---Eng Text----
+God had left His Throne,
+When Helen came to me, she did,
+Helen all alone!
+Side by side (because our fate
+
+AlonePoemsHelenAllAlonePoembyRudyardKipling.txt
+alone
+
+96::------------------------
+------------------------
+---Eng Text----
+A privet under Fairfax,
+A minister of God--
+Two hundred years and thirty
+Ere Armageddon came
+
+WarPoemsTheHolyWarPoembyRudyardKipling.txt
+war
+
+97::------------------------
+------------------------
+---Eng Text----
+colourful pain and distress flowing under me.
+All cross me walking.
+Screwpine flowers blossom on the river valley.
+I expect come swimming and pluck all flowers.
+
+SwimmingPoemsIExpectComeSwimmingPoembySRIRANJIARATISANKAR.txt
+swimming
+
+98::------------------------
+------------------------
+---Eng Text----
+you come for no one;
+if someone should wake,
+he must be prepared
+how to survive you.
+
+SeaPoemsSongOfTheSeaPoembyRainerMariaRilke.txt
+sea
+
+99::------------------------
+------------------------
+---Eng Text----
+What I have lost with what I have gained,
+What I have missed with what attained,
+Little room do I find for pride.
+I am aware
+
+---Nep Text----
+जे पाएको छु, के गुमाएको छु,
+के पाए संगै छुटेको छु,
+म गर्वको लागि सानो कोठा फेला पार्छु।
+म सचेत छु
+LossPoemsLossAndGainPoembyHenryWadsworthLongfellow.txt
+loss
+
+100::------------------------
+------------------------
+---Eng Text----
+but it’s the only thing we ate.
+When it comes to making breakfast,
+there's a lot of work to do,
+but we made it just to show you
+
+ChildrenPoemsBreakfastInBedChildrenPoembyCJHeck.txt
+children
+
+101::------------------------
+------------------------
+---Eng Text----
+of love--
+be mad or chill
+obsessed with angels
+or machines,
+
+---Nep Text----
+मायाको--
+पागल वा चिसो हो
+स्वर्गदूतहरु संग पागल
+वा मेसिनहरू,
+SongPoemsSongPoembyAllenGinsberg.txt
+song
+
+102::------------------------
+------------------------
+---Eng Text----
+I guess this is the most dramatic I’ve been in a while
+This is the closest that it's come to the Marshall Mathers
+I can hear him start to gather
+I don’t paint the portrait of the picture perfect Partridge family
+
+Things Get Worse.txt
+eminem
+
+103::------------------------
+------------------------
+---Eng Text----
+When I joke of leavin', but keep overachievin'
+'Cause what it's stole from me I've barely broken even
+I know, it's a fine, fine line
+Living in hope or dire need
+
+Fine Line.txt
+eminem
+
+104::------------------------
+------------------------
+---Eng Text----
+
+Lady, running down to the riptide
+Taken away to the dark side
+I wanna be your left hand man
+
+riptide.txt
+Taylorswift
+
+105::------------------------
+------------------------
+---Eng Text----
+O leito não-linear segue para dentro do universo
+Música quântica
+Dona Maria, Maria
+Eu 'to com fome, eu 'to com fome
+
+Lounge.txt
+eminem
+
+106::------------------------
+------------------------
+---Eng Text----
+You're just a doll for him to burn
+See the reaper in his eyes
+Messenger - prince of flies
+Brain washed with sin and death
+
+Evil Spells.txt
+morbid angel
+
+107::------------------------
+------------------------
+---Eng Text----
+But why's it feel so good?
+Most fun I ever had
+And I'd do it over and over and over again if I could
+It just felt so good, good
+
+ididsomethingbad.txt
+Taylorswift
+
+108::------------------------
+------------------------
+---Eng Text----
+You're fuckin' corny, you try to turn your charm on
+'Cause you just think you're Bishop the Don Juan
+But if you think that you're fuckin' with me, homie, you're on one
+I'm cockin' my head back like Ed Lover, "C'mon, son!"
+
+Seduction.txt
+eminem
+
+109::------------------------
+------------------------
+---Eng Text----
+But now the album has dropped, and I must commend Eminem being able to give Slim Shady justice and portray him better than done in MMLP2. But I am also fairly disappointed, with Eminem's desperate attempt to grasp mainstream appeal. Though Eminem's punchlines and way with words has improved since MMLP2, the other Shady Records artists don't bring much to the table. I was excited with D12 being back, but their song, "Bane" is simply alright. Not to great, not too bad. A very typical Bizzare verse was included too, bringing back memories from their album Devil's Night. Yelawolf's song "Down" is slightly odd and doesn't make Yelawolf sound anything more than a boy from Alabama that wants to rap. However, I must say that I am impressed by Slaughterhouse. Though I haven't spent much time listening to their music, I enjoyed their right to the point, fearless & "I don't give a fuck" attitude when rapping.
+Here is a track by track review :
+1. Eminem - Shady XV
+2. Slaughterhouse, Yelawolf & Eminem- Psychopath Killer
+
+Bane.txt
+eminem
+
+110::------------------------
+------------------------
+---Eng Text----
+Everybody? (we juggalos)
+What is a juggalo?
+<i>[Violent J]</i>
+What is a juggalo?
+
+whatisajuggalo.txt
+insaneclownposse
+
+111::------------------------
+------------------------
+---Eng Text----
+''Dead March''
+"Dead Ocean(s)"
+''Dead Planet''
+"Dead Rose"
+
+A Call To Arms.txt
+Exodus
+
+112::------------------------
+------------------------
+---Eng Text----
+Yeah, baby, we hopeless, don't we make an atrocious
+Combination? We know, it's like playin' with explosives
+Quite dangerous though, but my brain's in hypnosis
+Such a wide range of emotions
+
+Never Love Again.txt
+eminem
+
+113::------------------------
+------------------------
+---Eng Text----
+Factories, toxic waste, and chemicals
+They have strange effects on the animals
+In my neighborhood and some get a lot bigger
+Like the giant rat that jumped on my back
+
+out.txt
+insaneclownposse
+
+114::------------------------
+------------------------
+---Eng Text----
+''Luna''
+''Lunatic''
+"Lust For Life"
+''Lustmord''[M]''Machiavellian''
+
+Warlords.txt
+Exodus
+
+115::------------------------
+------------------------
+---Eng Text----
+They share with you only the shadows of things
+You commit to serve the mundane
+Society's slave but you can not see
+The Spirit so laden in the net of thorns
+
+Chambers Of Dis.txt
+morbid angel
+
+116::------------------------
+------------------------
+---Eng Text----
+Bursting carcinosis as chylase melts your guts
+Crepitating neoplasm erupts with gore...
+
+Maturating boils, the canker emmenagogic
+
+rupturedinpurulence.txt
+carcass
+
+117::------------------------
+------------------------
+---Eng Text----
+Blood on skin coagulated
+Tortured of the wretched,
+No one cares of their dead
+Appalling odor wreaking,
+
+undertherottedflesh.txt
+cannibal corpse
+
+118::------------------------
+------------------------
+---Eng Text----
+And how come, I remember Malcolm, Isaac, and Boogy
+If it was the projects in Missouri?
+'Cause those were my best friends until Isaac
+Took my tricycle and my Uncle Todd went to try to go get it back
+
+The Apple.txt
+eminem
+
+119::------------------------
+------------------------
+---Eng Text----
+You're addicted, I'm dope
+I'm the longest needle around here—need a fix, ock?
+I'm the big shot—get it, dick-snots?
+You're just small pokes, little pricks
+
+Wont Back Down.txt
+eminem
+
+120::------------------------
+------------------------
+---Eng Text----
+The ragged they come and
+The ragged they kill!
+Down in the cool air I can see.
+
+
+superbeast.txt
+Suicide Silence
+
+121::------------------------
+------------------------
+---Eng Text----
+Stan
+Paul (Skit)
+Who Knew
+Steve Berman (Skit)
+
+Chonkyfire Freestyle.txt
+eminem
+
+122::------------------------
+------------------------
+---Eng Text----
+I lost all concept of money
+But you dimes won't get a fuckin' nickle from me
+Oh shit, I'm down on one knee
+I'm havin' a stroke of genius—Elizabeth, I'm comin' to you, honey
+
+Dont Front.txt
+eminem
+
+123::------------------------
+------------------------
+---Eng Text----
+In the back of my mind making me feel like
+
+I just wanna know you better, know you better, know you better now
+I just wanna know you better, know you better, know you better now
+
+everythinghaschanged.txt
+Taylorswift
+
+124::------------------------
+------------------------
+---Eng Text----
+Symphony In H
+That's All She Wrote
+The Art Of Rap (Freestyle)
+The Sauce
+
+Crackers n Cheese.txt
+eminem
+
+125::------------------------
+------------------------
+---Eng Text----
+In pajamas, standin' in front of a webcam
+Beatin' themselves in the head 'til Russell lets him off Def Jam
+Maybe I need my head exam-ed, Hannibal Lecter with a dead lamb
+Hangin' from his ceiling, drippin' with a bed pan
+
+Baby.txt
+eminem
+
+126::------------------------
+------------------------
+---Eng Text----
+I see my target, put my car in park, and approach a tender
+Young girl by the name of Brenda, and I pretend to befriend her
+Sit down beside her like a spider, hi there girl, you mighta
+Heard of me before, see whore, you're the kind of girl that I'd a–
+
+Stay Wide Awake.txt
+eminem
+
+127::------------------------
+------------------------
+---Eng Text----
+Her crotch is bleeding
+
+She liked the way it felt inside her
+Fucking her, harder, harder
+
+fuckedwithaknife.txt
+cannibal corpse
+
+128::------------------------
+------------------------
+---Eng Text----
+You ain't had to have no money
+Or go shoppin' just to cop a fuckin' attitude (Attitude)
+Now my dough's amountin' to a mountain
+That's rised too high to count it
+
+Offended.txt
+eminem
+
+129::------------------------
+------------------------
+---Eng Text----
+I'm so bad, I'm so good that I'm so bad
+I guarantee I'll be the greatest thing you ever had
+'Cause you ain't never met nobody like me
+And you ain't gonna wanna fuck nobody else again
+
+So Bad.txt
+eminem
+
+130::------------------------
+------------------------
+---Eng Text----
+Intro (Slim Shady)
+Low. Down. Dirty
+If I Had...
+Just Don't Give A Fuck
+
+8 Mile Freestyle vs Lickty Spilt.txt
+eminem
+
+131::------------------------
+------------------------
+---Eng Text----
+Caskets I grate
+My larder's a grave
+I'm sickly obsessed (with the badly decomposed)
+Rotten remains I eat
+
+exhumetoconsume.txt
+carcass
+
+132::------------------------
+------------------------
+---Eng Text----
+Deranged by my deviance,
+savage goal to maim and kill
+Obsessed with my cruelty,
+vicious ways for me to die
+
+perversesuffering.txt
+cannibal corpse
+
+133::------------------------
+------------------------
+---Eng Text----
+Unsuccessfully, I might add (Might add)
+And I know it's best to leave it lie
+But even I get obsessed with reading everything
+And let it get the best of me 'til I snap ('Til I snap)
+
+Book Of Rhymes.txt
+eminem
+
+134::------------------------
+------------------------
+---Eng Text----
+Deranged by my deviance,
+savage goal to maim and kill
+Obsessed with my cruelty,
+vicious ways for me to die
+
+perversesuffering.txt
+cannibal corpse
+
+135::------------------------
+------------------------
+---Eng Text----
+Deranged by my deviance,
+savage goal to maim and kill
+Obsessed with my cruelty,
+vicious ways for me to die
+
+perversesuffering.txt
+cannibal corpse
+
+136::------------------------
+------------------------
+---Eng Text----
+Predators and victims of a life on this Earth
+We are birthed with the worst intentions intent to condemn everything with inventions
+We're born to destroy and obsessed with the thought of destruction
+
+
+absolutedestitute.txt
+cattledecapitation
+
+137::------------------------
+------------------------
+---Eng Text----
+Tell 'em! You hang out with Elton John in Lebanon when Eminem's gone, so both of y'all can massage RuPaul's balls
+Are you a faggot or a faggot magnet?
+Why the fuck are you so obsessed with eating rappers' asses?
+What are you, Dizaster? Are you an Iranian monkey trainer?
+
+Bet Shady 20 Cypher.txt
+eminem
+
+138::------------------------
+------------------------
+---Eng Text----
+Caskets I grate
+My larder's a grave
+I'm sickly obsessed (with the badly decomposed)
+Rotten remains I eat
+
+exhumetoconsume.txt
+carcass
+
+139::------------------------
+------------------------
+---Eng Text----
+Too Many people in this world
+to simply forgive, to only forget
+Obsessed with ideas of saviors
+Destined for failure
+
+mammalsinbabylon.txt
+cattledecapitation
+
+140::------------------------
+------------------------
+---Eng Text----
+only understood by some.
+What is success
+with which everyone is so obsessed
+Getting promotion in a job?
+
+---Nep Text----
+केहीले मात्र बुझेका छन् ।
+सफलता भनेको के हो
+जसमा सबैजना उत्तेजित छन्
+जागिरमा बढुवा पाउनु हुन्छ ?
+SuccessPoemsSuccessPoembyKavya.txt
+success
+
+141::------------------------
+------------------------
+---Eng Text----
+only understood by some.
+What is success
+with which everyone is so obsessed
+Getting promotion in a job?
+
+---Nep Text----
+केहीले मात्र बुझेका छन् ।
+सफलता भनेको के हो
+जसमा सबैजना उत्तेजित छन्
+जागिरमा बढुवा पाउनु हुन्छ ?
+SuccessPoemsSuccessPoembyKavya.txt
+success
+
+142::------------------------
+------------------------
+---Eng Text----
+we have it in our soul,
+so are we,
+OBSESSED WITH FOOTBALL......
+(dedicated to the most beautiful game i have ever played....... I m lovin it.......)
+
+---Nep Text----
+हाम्रो आत्मामा छ,
+हामी पनि त्यस्तै,
+फुटबलमा रमाइलो......
+(मैले खेलेको सबैभन्दा सुन्दर खेलमा समर्पित ....... म यसलाई माया गर्छु ......)
+FootballPoemsObsessedWithFootballSoccerPoembyAbhineetSharma.txt
+football
+
+143::------------------------
+------------------------
+---Eng Text----
+we have it in our soul,
+so are we,
+OBSESSED WITH FOOTBALL......
+(dedicated to the most beautiful game i have ever played....... I m lovin it.......)
+
+---Nep Text----
+हाम्रो आत्मामा छ,
+हामी पनि त्यस्तै,
+फुटबलमा रमाइलो......
+(मैले खेलेको सबैभन्दा सुन्दर खेलमा समर्पित ....... म यसलाई माया गर्छु ......)
+FootballPoemsObsessedWithFootballSoccerPoembyAbhineetSharma.txt
+football
+
+144::------------------------
+------------------------
+---Eng Text----
+Before this importnat meeting i was disturbed.
+If only i could find my pink little comb,
+Call me obsessed but I can't get over this perfect hair syndrome.
+I entered the elevator, and pressed floor no. six
+
+---Nep Text----
+यो महत्त्वपूर्ण बैठक अघि म विचलित थिएँ।
+यदि मैले मेरो गुलाबी सानो कंघी फेला पार्न सक्छु भने,
+मलाई पागल भन्नुहोस् तर म यो उत्तम कपाल सिन्ड्रोममा पुग्न सक्दिन।
+म लिफ्टमा प्रवेश गरें, र फ्लोर नं. छ
+PinkPoemsPinkLittleCombPoembyPdishere.txt
+pink
+
+145::------------------------
+------------------------
+---Eng Text----
+sport of photographers
+media admirers
+obsessed posed images
+elusive marsh mellow mystique's
+
+---Nep Text----
+फोटोग्राफरहरूको खेल
+मिडिया प्रशंसकहरू
+व्याकुल चित्रहरु
+मायावी मार्श मधुर मिस्टिक्स
+SilverPoemsSilverScreenSexSirensPoembyTerenceGeorgeCraddockSpectralImagesandImagesOfLight.txt
+silver
+
+146::------------------------
+------------------------
+---Eng Text----
+my final breath will sing me to my rest.
+I refuse to be depressed,
+'cause I'm totally obsessed,
+with the feeling that I'm really lying.
+
+---Nep Text----
+मेरो अन्तिम सासले मलाई मेरो विश्रामको लागि गाउनेछ।
+म उदास हुन इन्कार गर्छु,
+'किनकि म पूर्ण रूपमा पागल छु,
+म साँच्चै झूट बोल्दै छु भन्ने भावनाको साथ।
+HopePoemsASongOfHopePoembyDavidSmithWhite.txt
+hope
+
+147::------------------------
+------------------------
+---Eng Text----
+but it became clear to her
+even as a child
+she was obsessed with food-
+all the world and her relationships in it-
+
+---Nep Text----
+तर यो उनको लागि स्पष्ट भयो
+बच्चाको रूपमा पनि
+उनी खानामा अल्छी थिइन्-
+सारा संसार र यसमा उनको सम्बन्ध-
+FoodPoemsFoodForThoughtPoembyLonnieHicks.txt
+food
+
+148::------------------------
+------------------------
+---Eng Text----
+Before this importnat meeting i was disturbed.
+If only i could find my pink little comb,
+Call me obsessed but I can't get over this perfect hair syndrome.
+I entered the elevator, and pressed floor no. six
+
+---Nep Text----
+यो महत्त्वपूर्ण बैठक अघि म विचलित थिएँ।
+यदि मैले मेरो गुलाबी सानो कंघी फेला पार्न सक्छु भने,
+मलाई पागल भन्नुहोस् तर म यो उत्तम कपाल सिन्ड्रोममा पुग्न सक्दिन।
+म लिफ्टमा प्रवेश गरें, र फ्लोर नं. छ
+PinkPoemsPinkLittleCombPoembyPdishere.txt
+pink
+
+149::------------------------
+------------------------
+---Eng Text----
+we have it in our soul,
+so are we,
+OBSESSED WITH FOOTBALL......
+(dedicated to the most beautiful game i have ever played....... I m lovin it.......)
+
+---Nep Text----
+हाम्रो आत्मामा छ,
+हामी पनि त्यस्तै,
+फुटबलमा रमाएको......
+(मैले खेलेको सबैभन्दा सुन्दर खेलमा समर्पित ....... म यसलाई माया गर्छु ......)
+FootballPoemsObsessedWithFootballSoccerPoembyAbhineetSharma.txt
+football
+
+150::------------------------
+------------------------
+---Eng Text----
+You are in love, true love
+You are in love
+One look, dark room
+Meant just for you
+
+---Nep Text----
+तपाईं प्रेममा हुनुहुन्छ, साँचो प्रेम
+तिमी मायामा छौ
+एक नजर, अँध्यारो कोठा
+तपाईको लागि मात्र हो
+youareinlove.txt
+Taylorswift
+
+151::------------------------
+------------------------
+---Eng Text----
+
+[Verse 1]
+Darkness, your surest bet
+Wage of sin and blood roulette
+
+---Nep Text----
+[पद १]
+अन्धकार, तपाइँको पक्का शर्त
+पाप र रगत रूलेट को ज्याला
+Black 13.txt
+Exodus
+
+152::------------------------
+------------------------
+---Eng Text----
+"The beast lives out of the raging storm in the dead of night
+The ravenous, blood-sick creatures searches for it's sacrifice
+Through the hideous darkness, it lurches, driven by death itself
+Only the satisfaction of slaughter will cause it to return to
+
+---Nep Text----
+"जन्तु रातको मृत समयमा क्रोधित आँधीबाट बाहिर बाँच्दछ
+हिंसक, रगत-बिरामी प्राणीहरूले यसको बलिदान खोज्छन्
+घिनलाग्दो अन्धकारको माध्यमबाट, यो मृत्यु आफैले चलाउँछ
+केवल वधको सन्तुष्टिले यसलाई फिर्ता ल्याउनेछ
+boogiewoogiewu.txt
+insaneclownposse
+
+153::------------------------
+------------------------
+---Eng Text----
+And this ain't got nothin' to do with a scale
+Or being gay, little faggot, but by the way
+Thoughts are gettin' darker by the day
+I'm a combination of Skylar Grey
+
+---Nep Text----
+र यो स्केल संग केहि गर्न मिल्दैन
+वा समलैंगिक हुनु, सानो फ्यागट, तर वैसे
+विचारहरु दिन प्रतिदिन अँध्यारो हुँदै गएका छन्
+म Skylar Gray को संयोजन हुँ
+Wicked Ways.txt
+eminem
+
+154::------------------------
+------------------------
+---Eng Text----
+I am the violence embedded in flesh
+I am the pain in the bones of the mortal shell
+The dark heart of the earth
+I am hell
+
+---Nep Text----
+म शरीरमा गाँसिएको हिंसा हुँ
+म नश्वर कवचको हड्डीको पीडा हुँ
+पृथ्वीको अँध्यारो हृदय
+म नरक हुँ
+reignofdarkness.txt
+Thy Art Is Murder
+
+155::------------------------
+------------------------
+---Eng Text----
+We showed 'um all up
+No one could touch the way we
+Laughed in the dark
+Talking 'bout your daddy's farm
+
+---Nep Text----
+हामीले सबैलाई देखायौं
+हाम्रो बाटो कसैले छुन सकेन
+अँध्यारोमा हाँसे
+तिम्रो बाबाको खेतको बारेमा कुरा गर्दै
+wewerehappy.txt
+Taylorswift
+
+156::------------------------
+------------------------
+---Eng Text----
+''Dark Clouds''
+''Dark Crusade''
+"Dark Days"
+''Darkest Days''
+
+---Nep Text----
+''कालो बादल''
+'डार्क क्रुसेड'
+"कालो दिनहरू"
+''अन्धकार दिनहरू''
+Warlords.txt
+Exodus
+
+157::------------------------
+------------------------
+---Eng Text----
+But who could stay?
+
+Dark side
+I search for your dark side
+
+---Nep Text----
+तर को बस्न सक्छ?
+अँध्यारो पक्ष
+म तिम्रो अँध्यारो पक्ष खोज्छु
+thearcher.txt
+Taylorswift
+
+158::------------------------
+------------------------
+---Eng Text----
+I came back, I brought my axe
+
+In the shadows, alone in the dark
+Young victims I stalk
+
+---Nep Text----
+म फर्केर आएँ, बन्चरो ल्याएँ
+छायाँमा, अँध्यारोमा एक्लै
+युवा पीडितहरू म पीछा गर्छु
+thepickaxemurders.txt
+cannibal corpse
+
+159::------------------------
+------------------------
+---Eng Text----
+Satan is infernal knowledge
+Satan is eternal sin!!!!!!
+Satan is my guiding light
+Satan is global genocide
+
+Satan Is Endless, Satan Is Timeless.txt
+nattefrost
+
+160::------------------------
+------------------------
+---Eng Text----
+Thousand Christian Skulls
+Shaped by the fires of Hell !!
+Under his Imperial Throne - Satan !!!!
+Fire, Blood, Honour, Death....
+
+The Art Of Spiritual Purification.txt
+nattefrost
+
+161::------------------------
+------------------------
+---Eng Text----
+No, it can't be, it can't be—yes, it can be
+The fuckin' Anti-Christ is back, Dante
+It's Satan in black satin panties
+This is Amityville, calamity, goddamn it
+
+Underground.txt
+eminem
+
+162::------------------------
+------------------------
+---Eng Text----
+Splattered all over the entire state
+And straight to hell, got impaled by the gates
+Saw Satan, stuck his face in an ashtray
+While I sashayed around flames with a match
+
+Wicked Ways.txt
+eminem
+
+163::------------------------
+------------------------
+---Eng Text----
+Vultures of the holy carcass
+Together we unite for this bestial feast
+("A dark Satanic Hellride for the enemies of God")Embed
+
+The Art Of Spiritual Purification.txt
+nattefrost
+
+164::------------------------
+------------------------
+---Eng Text----
+Satan is child abuse!!
+Satan is true black metal
+Satan is endless!!!!!!
+Satan is timeless!!!!!!!!!
+
+Satan Is Endless, Satan Is Timeless.txt
+nattefrost
+
+165::------------------------
+------------------------
+---Eng Text----
+I see the horns of Satan
+Bleeding for him, bleeding for Hell
+("Sell your soul to Satan, and commit suicide. A pure individualistic/egoistic Death trip")Embed
+
+Sanctum 666.txt
+nattefrost
+
+166::------------------------
+------------------------
+---Eng Text----
+Satan is eternal sin!!!!!!
+Satan is my guiding light
+Satan is global genocide
+Satan is the beast in man
+
+Satan Is Endless, Satan Is Timeless.txt
+nattefrost
+
+167::------------------------
+------------------------
+---Eng Text----
+Evil Twin, take this beat now, it's all you
+I believe people can change but only for the worse
+I coulda changed the world if it wasn't for this verse—so satanic
+K-Mart chains panic ‘cause they can't even spin back the curse words
+
+Evil Twin.txt
+eminem
+
+168::------------------------
+------------------------
+---Eng Text----
+Primitive death
+My self destruction, my self abuse
+I bleed for satan, I live in sin!!
+Primitive death!!!!!!
+
+Primitive Death.txt
+nattefrost
+
+169::------------------------
+------------------------
+---Eng Text----
+And all the servants of hell
+Let the satanic torment begin...
+Grim, Satanic, Knife, Cuts, Flesh!!
+Hellcommander!!!!
+
+Hellcommander.txt
+nattefrost
+
+170::------------------------
+------------------------
+---Eng Text----
+Vile Suicide visions
+Leaving this earth
+Satanic pride, satanic possessions
+Satan claims your soul
+
+Satanic Victory.txt
+nattefrost
+
+171::------------------------
+------------------------
+---Eng Text----
+
+VEmbed
+Merket For Helvete LyricsHelvete kaller og ved Satan jeg svarer;
+Besett meg!
+
+Merket For Helvete.txt
+nattefrost
+
+172::------------------------
+------------------------
+---Eng Text----
+I see the horns of Satan
+Bleeding for him, bleeding for Hell
+("Sell your soul to Satan, and commit suicide. A pure individualistic/egoistic Death trip")Embed
+
+Sanctum 666.txt
+nattefrost
+
+173::------------------------
+------------------------
+---Eng Text----
+The world starts to burn
+The world powers learn
+The Satan's work is done1EmbedShare URLCopyEmbedCopy
+
+And Then There Were None.txt
+Exodus
+
+174::------------------------
+------------------------
+---Eng Text----
+Transformed by a knife
+Into food not fit for dogs
+
+Ignorance is death
+
+lipsandassholes.txt
+cattledecapitation
+
+175::------------------------
+------------------------
+---Eng Text----
+My hands
+My knife
+Crazed, boiling blood pumps through my heart
+Pushing me to
+
+maniacal.txt
+cannibal corpse
+
+176::------------------------
+------------------------
+---Eng Text----
+
+An incessant game - methodically made
+With each cumulative piece - of commensated meat...
+
+corporaljigsorequandary.txt
+carcass
+
+177::------------------------
+------------------------
+---Eng Text----
+Members Only - Volume 2
+Members Only - Volume 3
+Members Only - Volume 4
+Metro Boomin - Not All Heroes Wear Capes
+
+Revival.txt
+eminem
+
+178::------------------------
+------------------------
+---Eng Text----
+He’s funny, dark and tall
+Watch him run across to Angelina
+But I won’t cause
+
+
+angelina.txt
+Taylorswift
+
+179::------------------------
+------------------------
+---Eng Text----
+No matter how many emcees I eat up
+Oh oh, it's never enough41Embed
+Never Enough Lyrics
+There's not much you could do or say to phase me
+
+Never Enough.txt
+eminem
+
+180::------------------------
+------------------------
+---Eng Text----
+
+Pounding the human maggots, broken bones cause screams of pain
+Femur pokes through the muscles in his upper leg, I wrench it out with force
+
+
+maniacal.txt
+cannibal corpse
+
+181::------------------------
+------------------------
+---Eng Text----
+Ghetto freak show Ghe Ghe Ghetto Freakshow
+Ghetto freak Ghe Ghetto Freakshow
+
+It's three o'clock in the morning and you're sleeping
+
+ghettofreakshow.txt
+insaneclownposse
+
+182::------------------------
+------------------------
+---Eng Text----
+That's how it used to be, 'cause you and me, we ruled the world
+And we made Curtis blow (Kurtis Blow, 50)
+Fuck, I miss them days
+You used to be my favorite, bitch
+
+Favorite Bitch.txt
+eminem
+
+183::------------------------
+------------------------
+---Eng Text----
+He has now become very responsible,
+And I know if he gets the support he is very capable,
+He is self obsessed with his looks,
+And convinces us either by hook or by crook…! !
+
+BrotherPoemsMySweetBrotherPoembyShikhaKhurana.txt
+brother
+
+184::------------------------
+------------------------
+---Eng Text----
+but it became clear to her
+even as a child
+she was obsessed with food-
+all the world and her relationships in it-
+
+FoodPoemsFoodForThoughtPoembyLonnieHicks.txt
+food
+
+185::------------------------
+------------------------
+---Eng Text----
+but it became clear to her
+even as a child
+she was obsessed with food-
+all the world and her relationships in it-
+
+FoodPoemsFoodForThoughtPoembyLonnieHicks.txt
+food
+
+186::------------------------
+------------------------
+---Eng Text----
+Can I not see the square root of 63
+That number is evil, evil i say
+Or that Poe was obsessed with Psyche!
+What poet wrote down by the bay?
+
+SchoolPoemsSchoolPoembyKrystleNewberry.txt
+school
+
+187::------------------------
+------------------------
+---Eng Text----
+of love--
+be mad or chill
+obsessed with angels
+or machines,
+
+SongPoemsSongPoembyAllenGinsberg.txt
+song
+
+188::------------------------
+------------------------
+---Eng Text----
+He sees the pain, feels the sadness,
+that permeates post modernity,
+self-obsessed, prepossessing drive,
+that's disguised as individuality.
+
+AnimalPoemsNewAnimalPoembySriramRamesh.txt
+animal
+
+189::------------------------
+------------------------
+---Eng Text----
+but it became clear to her
+even as a child
+she was obsessed with food-
+all the world and her relationships in it-
+
+FoodPoemsFoodForThoughtPoembyLonnieHicks.txt
+food
+
+190::------------------------
+------------------------
+---Eng Text----
+of love--
+be mad or chill
+obsessed with angels
+or machines,
+
+SongPoemsSongPoembyAllenGinsberg.txt
+song
+
+191::------------------------
+------------------------
+---Eng Text----
+of women, hapless men
+of children;
+an obsessed march
+toward Lust's Dark Horizons
+
+LustPoemsGnarledLustPoembyLonnieHicks.txt
+lust
+
+192::------------------------
+------------------------
+---Eng Text----
+but it became clear to her
+even as a child
+she was obsessed with food-
+all the world and her relationships in it-
+
+FoodPoemsFoodForThoughtPoembyLonnieHicks.txt
+food
+
+193::------------------------
+------------------------
+---Eng Text----
+Predators and victims of a life on this Earth
+We are birthed with the worst intentions intent to condemn everything with inventions
+We're born to destroy and obsessed with the thought of destruction
+
+
+absolutedestitute.txt
+cattledecapitation
+
+194::------------------------
+------------------------
+---Eng Text----
+''Obey''
+"Oblivion"
+''Obsessed''
+''Obsidian''
+
+A Call To Arms.txt
+Exodus
+
+195::------------------------
+------------------------
+---Eng Text----
+Caskets I grate
+My larder's a grave
+I'm sickly obsessed (with the badly decomposed)
+Rotten remains I eat
+
+exhumetoconsume.txt
+carcass
+
+196::------------------------
+------------------------
+---Eng Text----
+Too Many people in this world
+to simply forgive, to only forget
+Obsessed with ideas of saviors
+Destined for failure
+
+mammalsinbabylon.txt
+cattledecapitation
+
+197::------------------------
+------------------------
+---Eng Text----
+Criminal insanity
+
+I am obsessed with butchery I am mad
+A trail of corpses so much blood on my hands
+
+rabid.txt
+cannibal corpse
+
+198::------------------------
+------------------------
+---Eng Text----
+Predators and victims of a life on this Earth
+We are birthed with the worst intentions intent to condemn everything with inventions
+We're born to destroy and obsessed with the thought of destruction
+
+
+absolutedestitute.txt
+cattledecapitation
+
+199::------------------------
+------------------------
+---Eng Text----
+He got that boyish look that I like in a man
+I am an architect, I'm drawing up the plans
+He's so obsessed with me and, boy, I understand
+Boy, I understand
+
+ithinkheknows.txt
+Taylorswift
+
+200::------------------------
+------------------------
+---Eng Text----
+Predators and victims of a life on this Earth
+We are birthed with the worst intentions intent to condemn everything with inventions
+We're born to destroy and obsessed with the thought of destruction
+
+
+absolutedestitute.txt
+cattledecapitation
+
+201::------------------------
+------------------------
+---Eng Text----
+You claim to not need my guidance
+Yet you reach for my hand and plead
+Obsessed with your futile struggles
+You are mistaken to think I feel
+
+Garden Of Disdain.txt
+morbid angel
+
+202::------------------------
+------------------------
+---Eng Text----
+''Obey''
+"Oblivion"
+''Obsessed''
+''Obsidian''
+
+A Call To Arms.txt
+Exodus
+
+203::------------------------
+------------------------
+---Eng Text----
+''Obey''
+"Oblivion"
+''Obsessed''
+''Obsidian''
+
+Warlords.txt
+Exodus
+
+204::------------------------
+------------------------
+---Eng Text----
+Caskets I grate
+My larder's a grave
+I'm sickly obsessed (with the badly decomposed)
+Rotten remains I eat
+
+exhumetoconsume.txt
+carcass
+
+205::------------------------
+------------------------
+---Eng Text----
+Caskets I grate
+My larder's a grave
+I'm sickly obsessed (with the badly decomposed)
+Rotten remains I eat
+
+exhumetoconsume.txt
+carcass
+
+206::------------------------
+------------------------
+---Eng Text----
+Deranged by my deviance,
+savage goal to maim and kill
+Obsessed with my cruelty,
+vicious ways for me to die
+
+perversesuffering.txt
+cannibal corpse
+
+207::------------------------
+------------------------
+---Eng Text----
+Caskets I grate
+My larder's a grave
+I'm sickly obsessed (with the badly decomposed)
+Rotten remains I eat
+
+exhumetoconsume.txt
+carcass
+
+208::------------------------
+------------------------
+---Eng Text----
+Caskets I grate
+My larder's a grave
+I'm sickly obsessed (with the badly decomposed)
+Rotten remains I eat
+
+exhumetoconsume.txt
+carcass
+
+209::------------------------
+------------------------
+---Eng Text----
+Caskets I grate
+My larder's a grave
+I'm sickly obsessed (with the badly decomposed)
+Rotten remains I eat
+
+exhumetoconsume.txt
+carcass
+
+210::------------------------
+------------------------
+---Eng Text----
+Predators and victims of a life on this Earth
+We are birthed with the worst intentions intent to condemn everything with inventions
+We're born to destroy and obsessed with the thought of destruction
+
+
+absolutedestitute.txt
+cattledecapitation
+
+211::------------------------
+------------------------
+---Eng Text----
+You claim to not need my guidance
+Yet you reach for my hand and plead
+Obsessed with your futile struggles
+You are mistaken to think I feel
+
+Garden Of Disdain.txt
+morbid angel
+
+212::------------------------
+------------------------
+---Eng Text----
+Caskets I grate
+My larder's a grave
+I'm sickly obsessed (with the badly decomposed)
+Rotten remains I eat
+
+exhumetoconsume.txt
+carcass
+
+213::------------------------
+------------------------
+---Eng Text----
+Caskets I grate
+My larder's a grave
+I'm sickly obsessed (with the badly decomposed)
+Rotten remains I eat
+
+exhumetoconsume.txt
+carcass
+
+214::------------------------
+------------------------
+---Eng Text----
+''Obey''
+"Oblivion"
+''Obsessed''
+''Obsidian''
+
+A Call To Arms.txt
+Exodus
+
+215::------------------------
+------------------------
+---Eng Text----
+One day closer to the end of all life on this fucking planet
+
+Death obsessed! Infatuation with cessation
+Eternal rest - request for death at my behest - held close to the breast
+
+onedayclosertotheendoftheworld.txt
+cattledecapitation
+
+216::------------------------
+------------------------
+---Eng Text----
+''Obey''
+"Oblivion"
+''Obsessed''
+''Obsidian''
+
+A Call To Arms.txt
+Exodus
+
+217::------------------------
+------------------------
+---Eng Text----
+You claim to not need my guidance
+Yet you reach for my hand and plead
+Obsessed with your futile struggles
+You are mistaken to think I feel
+
+Garden Of Disdain.txt
+morbid angel
+
+218::------------------------
+------------------------
+---Eng Text----
+Too Many people in this world
+to simply forgive, to only forget
+Obsessed with ideas of saviors
+Destined for failure
+
+mammalsinbabylon.txt
+cattledecapitation
+
+219::------------------------
+------------------------
+---Eng Text----
+Deranged by my deviance,
+savage goal to maim and kill
+Obsessed with my cruelty,
+vicious ways for me to die
+
+perversesuffering.txt
+cannibal corpse
+
+220::------------------------
+------------------------
+---Eng Text----
+[Verse 4]
+Israel is exiled because they are lawless
+The fatherless were oppressed with idols they’re obsessed
+And just as Yahweh as a fire consumed their enemies--it’s a reversal of the Canaanite Conquest
+
+Die By His Hand.txt
+Exodus
+
+221::------------------------
+------------------------
+---Eng Text----
+''Obey''
+"Oblivion"
+''Obsessed''
+''Obsidian''
+
+A Call To Arms.txt
+Exodus
+
+222::------------------------
+------------------------
+---Eng Text----
+Too Many people in this world
+to simply forgive, to only forget
+Obsessed with ideas of saviors
+Destined for failure
+
+mammalsinbabylon.txt
+cattledecapitation
+
+223::------------------------
+------------------------
+---Eng Text----
+Tumour of rancid minds
+Ungrateful destiny
+Defective form of life
+Carbonized bones
+
+Start Human Slaughter.txt
+Dead infection
+
+224::------------------------
+------------------------
+---Eng Text----
+This endless festeringEmbed
+Garden of Disdain LyricsNo God will claim this garden
+Too sickening to the eyes to see this
+Long ignored my words of warning
+
+Garden Of Disdain.txt
+morbid angel
+
+225::------------------------
+------------------------
+---Eng Text----
+And I said, "I'm sorry too,"
+And that was the moment I knew.
+You should've been there,
+Should've burst through the door,
+
+themomentiknew.txt
+Taylorswift
+
+226::------------------------
+------------------------
+---Eng Text----
+Ia iak sakkakh iak sakkakth
+Ia shaxul
+Ia kingu ia cthulhu ia azbul
+Ia azabua
+
+Lord Of All Fevers And Plague.txt
+morbid angel
+
+227::------------------------
+------------------------
+---Eng Text----
+"Hit Em Up"
+"Hold On"
+"Hold Up"
+"Hollow"
+
+A Call To Arms.txt
+Exodus
+
+228::------------------------
+------------------------
+---Eng Text----
+Whip out the chains and get the knife
+And slay some innocent fool
+
+[Chorus]
+
+Exodus.txt
+Exodus
+
+229::------------------------
+------------------------
+---Eng Text----
+Just how still you had me!
+
+Silence, breathing in your fear
+Silence, death is all I hear
+
+silence.txt
+Suicide Silence
+
+230::------------------------
+------------------------
+---Eng Text----
+I'm in the room, it's a typical Tuesday night.
+I'm listening to the kind of music she doesn't like.
+And she'll never know your story like I do.
+
+
+youbelongwithme.txt
+Taylorswift
+
+231::------------------------
+------------------------
+---Eng Text----
+Bow to me splendidly2Embed
+God of Emptiness LyricsPart 1: The Accuser
+
+Lies, and you fill their souls
+
+God Of Emptiness.txt
+morbid angel
+
+232::------------------------
+------------------------
+---Eng Text----
+I always forget to tell you, I love you, I'll love you forever
+
+I watch superman fly away
+You've got a busy day today
+
+superman.txt
+Taylorswift
+
+233::------------------------
+------------------------
+---Eng Text----
+Thoughts in my head
+Of people despise me and hate me and don't know me
+I hate you too
+So it's all good, it's all good
+
+smog.txt
+insaneclownposse
+
+234::------------------------
+------------------------
+---Eng Text----
+"Baby, I miss you and I swear I'm gonna change, trust me."
+Remember how that lasted for a day?
+I say, "I hate you," we break up, you call me, "I love you."
+
+
+weareneverevergettingbacktogether.txt
+Taylorswift
+
+235::------------------------
+------------------------
+---Eng Text----
+And I got a boyfriend, he's older than us
+He's in the club doing, I don't know what
+You're so cool, it makes me hate you so much (I hate you so much)
+
+
+gorgeous.txt
+Taylorswift
+
+236::------------------------
+------------------------
+---Eng Text----
+Windows down, you pass my street, the memories start
+You say it's in the past, you drive straight ahead
+You're thinking that I hate you now
+'Cause you still don't know what I never said
+
+iwishyouwould.txt
+Taylorswift
+
+237::------------------------
+------------------------
+---Eng Text----
+Thoughts in my head
+Of people despise me and hate me and don't know me
+I hate you too
+So it's all good, it's all good
+
+smog.txt
+insaneclownposse
+
+238::------------------------
+------------------------
+---Eng Text----
+
+I... I hate you people... you deserve to die... for you are evil
+I... I hate you people... you deserve to die...
+
+
+circoinhumanitas.txt
+cattledecapitation
+
+239::------------------------
+------------------------
+---Eng Text----
+"Baby, I miss you and I swear I'm gonna change, trust me."
+Remember how that lasted for a day?
+I say, "I hate you," we break up, you call me, "I love you."
+
+
+weareneverevergettingbacktogether.txt
+Taylorswift
+
+240::------------------------
+------------------------
+---Eng Text----
+
+I... I hate you people... you deserve to die... for you are evil
+I... I hate you people... you deserve to die...
+
+
+circoinhumanitas.txt
+cattledecapitation
+
+241::------------------------
+------------------------
+---Eng Text----
+Only for human entertainment
+
+I... I hate you people... you deserve to die... for you are evil
+
+
+circoinhumanitas.txt
+cattledecapitation
+
+242::------------------------
+------------------------
+---Eng Text----
+And I got a boyfriend, he's older than us
+He's in the club doing, I don't know what
+You're so cool, it makes me hate you so much (I hate you so much)
+
+
+gorgeous.txt
+Taylorswift
+

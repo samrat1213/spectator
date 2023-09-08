@@ -1,0 +1,13 @@
+
+
+{% set ns = namespace(beds=1) %}
+{% for image in images %}
+      <img class="picture2" src="{{ static_url }}tgm/{{image}}" >
+      {% if ns.beds % 3 == 0 %} <br> {% endif %}
+       {% set ns.beds = ns.beds + 1 %}
+{% endfor %}
+
+ <div>
+
+ <button class='cool-button' onclick="load_pic()">Reload</button>
+</div>
