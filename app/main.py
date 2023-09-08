@@ -45,7 +45,7 @@ def texts():
 
 
     for i in range(1,10):
-        dirc=homedir+"lyrics\\twets\\"
+        dirc=homedir+"lyrics/twets/"
         tweetfile=random.choice(os.listdir(dirc))
         with open(dirc + tweetfile, encoding='utf-8') as f1:
             tweet=random.choice(f1.readlines())
